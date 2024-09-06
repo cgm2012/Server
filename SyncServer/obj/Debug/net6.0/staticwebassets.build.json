@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/D8yaAJsfvKn7PAYLobTE3kXnidhnCm6ozstgbhphkU=",
+  "Source": "SyncServer",
+  "BasePath": "_content/SyncServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

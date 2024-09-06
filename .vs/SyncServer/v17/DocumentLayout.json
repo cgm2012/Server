@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|c:\\users\\pc-asus\\onedrive\\m\u00E1y t\u00EDnh\\server\\syncserver\\syncserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|solutionrelative:syncserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|c:\\users\\pc-asus\\onedrive\\m\u00E1y t\u00EDnh\\server\\syncserver\\syncserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|solutionrelative:syncserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|c:\\users\\pc-asus\\onedrive\\m\u00E1y t\u00EDnh\\server\\syncserver\\syncserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|solutionrelative:syncserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|c:\\users\\pc-asus\\onedrive\\m\u00E1y t\u00EDnh\\server\\syncserver\\syncserver\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06916A74-196E-4230-B59F-24AFB1EE96B1}|SyncServer\\SyncServer.csproj|solutionrelative:syncserver\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SyncServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SyncServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T03:44:25.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyncController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\Controllers\\SyncController.cs",
+              "RelativeDocumentMoniker": "SyncServer\\Controllers\\SyncController.cs",
+              "ToolTip": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\Controllers\\SyncController.cs",
+              "RelativeToolTip": "SyncServer\\Controllers\\SyncController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:41:24.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\appsettings.json",
+              "RelativeDocumentMoniker": "SyncServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\appsettings.json",
+              "RelativeToolTip": "SyncServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T02:31:55.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\Program.cs",
+              "RelativeDocumentMoniker": "SyncServer\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\SyncServer\\SyncServer\\Program.cs",
+              "RelativeToolTip": "SyncServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:31:07.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
